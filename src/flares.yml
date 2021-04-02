@@ -1,0 +1,25 @@
+flares:
+  Ruby:
+    identifier:
+      material: "ENDER_CHEST"
+    #time seconds
+    regeneration-time: 30
+    particle-based: true
+    particle-effect: "CLOUD"
+    permission-based: false
+    permission: '' #leave blank if permission is set to false.
+    item:
+      material: "STONE"
+      damage: 0
+      name: '&4Ruby Ore'
+      lore: [ ]
+      glow: false
+    hardness: 200
+    amount-given: 4
+    commands:
+      - 'give %player% apple 20'
+      - 'give %player% emerald 10'
+      - 'give %player% iron 10'
+      - 'give %player% redstone 10'
+      - 'give %player% cactus 10'
+      - 'give %player% dirt 10'

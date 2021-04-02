@@ -1,0 +1,4 @@
+messages:
+  flare-placed: "&ayou have place &b%flaretype%"
+  flare-removed:  "&cFlare broken"
+  flare-null: "&c&lORE IS NULL!!!!"
